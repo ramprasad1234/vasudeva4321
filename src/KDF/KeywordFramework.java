@@ -16,7 +16,7 @@ public class KeywordFramework extends kdf_class{
 	//public class KeywordFramework extends KeywordActions{
 		
 		
-		FileInputStream fis;
+		public FileInputStream fis;
 		
 		//String str;
 		
